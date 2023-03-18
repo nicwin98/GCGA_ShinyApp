@@ -2,7 +2,7 @@
 
 # GCGA Shiny App
 
-This app displays RNA sequencing data from livers of female mice treated for eight weeks with the glucagon analogue, NNC9204-0043, compared to female mice treated with PBS (control group)as presented in
+This app displays RNA sequencing data from livers of female mice treated for eight weeks with the glucagon analogue, NNC9204-0043, compared to female mice treated with PBS (control group) as presented in
 
 "Opposing effects of chronic glucagon receptor agonism and antagonism on amino acids, hepatic gene expression, and alpha cells"
 
